@@ -1,0 +1,9 @@
+[submodule "SoundClassification"]
+	path = SoundClassification
+	url = https://github.com/ptan044/SoundClassification.git
+[submodule "DOA"]
+	path = DOA
+	url = https://github.com/ptan044/DOA.git
+[submodule "keywordSpotting"]
+	path = keywordSpotting
+	url = https://github.com/ptan044/keywordSpotting.git
